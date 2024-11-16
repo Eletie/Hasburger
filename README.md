@@ -1,0 +1,2 @@
+# Hasburger
+Our Raccoons hackathon
