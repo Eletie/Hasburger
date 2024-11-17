@@ -193,12 +193,16 @@ menu:
         jump main_floor
 
 label bathroom:
+    scene bg supp
+    show viktor normal at left
     "He ushers me to the back, where all the cleaning supplies lie"
     "He turns around to grab some spray, paper towels and a cleaning cloth"
     "Handing me the items he exclaims"
     Viktor "These will be your essentials and right there-"
     "He points to the corner where a broom and dustpan lies"
     Viktor "In case you need to sweep up the floor"
+    scene bg bathroom
+    show viktor normal at left
     "He leads me into the bathroom, he points at the floor"
     Viktor "Grīda"
     "Ah, i understood what he needed and opened my notebook to take notes"
